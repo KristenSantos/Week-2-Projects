@@ -1,0 +1,57 @@
+body {
+background-image: url(images/background.jpg);
+background-color: rgb(207, 177, 149);
+background-size: cover;
+background-repeat: repeat;
+
+}
+h1 { 
+    text-align: center;
+    color: white;
+}
+p { 
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+
+}
+ol {
+    color: white;
+    text-align: left;
+}
+ul {
+    color: white;
+    text-align: left;    
+}
+a {
+    padding: 10px 10px 10px 10px;
+    color: white; 
+    
+
+}
+.favoritelist {
+    text-align: left; 
+   padding: 50px 50px 50px 50px;   
+   margin: 50px auto 50px auto;
+    box-sizing: content-box;
+    width: 300px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.redirect { 
+    border: solid;
+    border-color: rgba(230, 195, 83, 0.938);
+    background-color: white;
+    border-radius: 5px;
+    margin: auto;
+    width: 300px;
+
+}
+.redirect a {
+    color: black;
+}
